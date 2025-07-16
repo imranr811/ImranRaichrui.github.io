@@ -1,2 +1,100 @@
 # ImranRaichrui.github.io
 9+ Years of Industry Experiences, including hard surface, characters (realistic, hyper-realistic, and stylized), environments, concept designs, monsters, products, and vehicles. .Primary Tools: Autodesk Maya, ZBrush Additional Knowledge: Substance Painter, Nuke, Houdini, Unreal Engine, and extensive experience with shot sculpting using Mush 3D. 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Imran Raichuri | Links</title>
+  <style>
+    body {
+      background-color: #121212;
+      color: #e0e0e0;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      margin: 0;
+      padding: 40px 20px;
+    }
+
+    h1 {
+      text-align: center;
+      color: #ffffff;
+      margin: 20px 0 40px 0;
+    }
+
+    .profile-pic {
+      display: block;
+      max-width: 180px;
+      width: 100%;
+      height: auto;
+      border-radius: 100px;
+      margin: 0 auto 20px auto;
+      border: 3px solid #444;
+      box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    }
+
+    .links-container {
+      display: flex;
+      flex-direction: column;
+      gap: 20px;
+      max-width: 600px;
+      margin: 0 auto;
+    }
+
+    .link-box {
+      background-color: #1e1e1e;
+      padding: 20px;
+      border-radius: 10px;
+      text-align: center;
+      box-shadow: 0 0 10px rgba(0,0,0,0.4);
+      transition: background-color 0.3s;
+    }
+
+    .link-box:hover {
+      background-color: #2c2c2c;
+    }
+
+    .link-box a {
+      color: #64b5f6;
+      font-size: 20px;
+      text-decoration: none;
+    }
+
+    .note {
+      color: #aaaaaa;
+      font-size: 14px;
+      margin-top: 6px;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Profile Photo -->
+  <img src="IMG_7269.jpg" alt="Imran Raichuri" class="profile-pic" />
+
+  <h1>Imran Raichuri – My Links</h1>
+
+  <div class="links-container">
+    <div class="link-box">
+      <a href="https://imranraichuriassetlead.tiiny.site" target="_blank">📄 Resume</a>
+    </div>
+
+    <div class="link-box">
+      <a href="https://www.linkedin.com/in/imran-raichuri-0610ab74/" target="_blank">🔗 LinkedIn</a>
+    </div>
+
+    <div class="link-box">
+      <a href="https://imranr.artstation.com/" target="_blank">🎨 ArtStation</a>
+    </div>
+
+    <div class="link-box">
+      <a href="https://www.imdb.com/name/nm10238028/?ref_=ext_shr" target="_blank">🎬 IMDb</a>
+    </div>
+
+    <div class="link-box">
+      <a href="https://vimeo.com/1100375596?share=copy" target="_blank">▶️ Showreel (Vimeo)</a>
+      <div class="note">Password: <strong>Imran12345</strong></div>
+    </div>
+  </div>
+
+</body>
+</html>
